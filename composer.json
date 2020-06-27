@@ -1,4 +1,6 @@
 {
+	"name": "test/test",
+	"description": "Test kanban application",
 	"autoload": {
 		"classmap": [
 			"src/classes"
